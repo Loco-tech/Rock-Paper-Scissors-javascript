@@ -65,7 +65,7 @@ function autoPlay() {
         if (computerMove === `rock`) {
     result = `Tie`;
 
-        } else if (computerMove === paper`) {
+        } else if (computerMove === `paper`) {
     result = `You lose`;
         } else if (computerMove === `scissors`) {
     result = `You win`;
